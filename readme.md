@@ -1,8 +1,6 @@
 # delete-keys 
 
-[![Build Status](https://travis-ci.com/abranhe/delete-keys.svg?logo=travis)](https://travis-ci.com/abranhe/delete-keys)
-[![GH Status](https://github.com/abranhe/delete-keys/workflows/build/badge.svg)](https://github.com/abranhe/delete-keys/actions)
-[![NPM](https://img.shields.io/github/package-json/v/abranhe/delete-keys?logo=npm)](https://npmjs.org/delete-keys)
+[![Build Status](https://img.shields.io/travis/abranhe/delete-keys?logo=travis)](https://travis-ci.com/abranhe/delete-keys) [![GH Status](https://github.com/abranhe/delete-keys/workflows/build/badge.svg)](https://github.com/abranhe/delete-keys/actions) [![NPM](https://img.shields.io/github/package-json/v/abranhe/delete-keys?logo=npm)](https://npmjs.org/delete-keys)
 
 > Remove the keys you don't want from an object
 

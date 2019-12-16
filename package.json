@@ -1,6 +1,6 @@
 {
 	"name": "delete-keys",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Remove the keys you don't want from an object",
 	"license": "MIT",
 	"repository": "abranhe/delete-keys",

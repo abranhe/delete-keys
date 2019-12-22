@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = (object, keys) => {
 	const obj = {...object};
 
